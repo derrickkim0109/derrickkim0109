@@ -9,7 +9,7 @@
 ## TaeHyun Kim 
 
 ### Nicknames
-- Github: `derrickkim0109`
+- Github: `Derrick Kim`
 - [Teamo2](https://www.carmore.kr/): `Derrick(데릭)`
 
 

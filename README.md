@@ -24,8 +24,7 @@
 
 ![Derrick's github stats](https://github-readme-stats.vercel.app/api?username=derrickkim0109&show_icons=true&theme=cobalt)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=derrickkim0109&theme=dracula&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=derrickkim0109)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 

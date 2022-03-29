@@ -1,7 +1,7 @@
 ## Hi there 👋
 > Thank you for visiting my GitHub.
 
-### If you want to see my portfolio \rightarrow [here]()
+### If you want to see my portfolio `&rarr;` [here]()
 
 
 [![My Tech Blog Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=https://kinetic27.github.io/)](https://derrickkim0109.github.io/) 

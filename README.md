@@ -4,7 +4,7 @@
 ### You can see my portfolio [here]()
 
 
-[![My Tech Blog Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=https://kinetic27.github.io/)](https://ㅇderrickkim0109.github.io/) 
+[![My Tech Blog Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=https://kinetic27.github.io/)](https://derrickkim0109.github.io/) 
 
 ## TaeHyun Kim 
 

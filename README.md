@@ -12,12 +12,6 @@
 - Github: `Derrick Kim`
 - [Teamo2](https://www.carmore.kr/): `Derrick(데릭)`
 
-
-## Motto
-- 기록하는 것이 남는것이다.
-- 시작하면 포기하지 않는다. 
-- 모르는것을 두려워하지 말자.
-
 ## Cards
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fderrickkim0109&count_bg=%23367AB6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)

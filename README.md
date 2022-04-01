@@ -1,6 +1,3 @@
-## Hi there 👋
-> Thank you for visiting my GitHub.
-
 ### If you want to see my portfolio &rarr; [here](https://www.notion.so/Resume-c38b8b0024144d4497de7058b905870b)
 
 ## Blog

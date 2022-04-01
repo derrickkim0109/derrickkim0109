@@ -1,5 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fderrickkim0109&count_bg=%23367AB6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-### If you want to see my portfolio &rarr; [here](https://www.notion.so/Resume-c38b8b0024144d4497de7058b905870b)
+
+## Resume & Portfolio
+### &rarr; [here](https://www.notion.so/Resume-c38b8b0024144d4497de7058b905870b)
 
 ## Blog
 [![My Tech Blog Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=https://kinetic27.github.io/)](https://derrickkim0109.github.io/) 

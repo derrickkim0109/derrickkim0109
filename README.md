@@ -1,3 +1,4 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fderrickkim0109&count_bg=%23367AB6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### If you want to see my portfolio &rarr; [here](https://www.notion.so/Resume-c38b8b0024144d4497de7058b905870b)
 
 ## Blog
@@ -10,9 +11,6 @@
 - [Teamo2](https://www.carmore.kr/): `Derrick(데릭)`
 
 ## Cards
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fderrickkim0109&count_bg=%23367AB6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ![Derrick's github stats](https://github-readme-stats.vercel.app/api?username=derrickkim0109&show_icons=true&theme=cobalt)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=derrickkim0109&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)

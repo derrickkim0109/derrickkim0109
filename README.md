@@ -11,6 +11,7 @@
 ### Nicknames
 - Github: `Derrick Kim`
 - [Teamo2](https://www.carmore.kr/): `Derrick(데릭)`
+- [Yagom_Camp](https://www.yagom-academy.kr/) : `Derrick(데릭)`
 
 ## Cards
 ![Derrick's github stats](https://github-readme-stats.vercel.app/api?username=derrickkim0109&show_icons=true&theme=cobalt)

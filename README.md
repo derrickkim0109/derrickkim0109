@@ -16,6 +16,8 @@
 ## Cards
 ![Derrick's github stats](https://github-readme-stats.vercel.app/api?username=derrickkim0109&show_icons=true&theme=cobalt)
 
+<a href="https://opgc.me/#/users/derrickkim0109" target="_blank"><img src="https://api.opgc.me/githubs/users/derrickkim0109/tag/?theme=basic" /></a>
+
 ## History
 [![trophy](https://github-profile-trophy.vercel.app/?username=derrickkim0109&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 

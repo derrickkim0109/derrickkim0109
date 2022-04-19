@@ -18,13 +18,10 @@
 
 <a href="https://opgc.me/#/users/derrickkim0109" target="_blank"><img src="https://api.opgc.me/githubs/users/derrickkim0109/tag/?theme=basic" /></a>
 
-## 🕰 History
-[![trophy](https://github-profile-trophy.vercel.app/?username=derrickkim0109&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 🧑🏻‍💻 Language
-  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derrickkim0109&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## 🕰 History
+[![trophy](https://github-profile-trophy.vercel.app/?username=derrickkim0109&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)

@@ -27,9 +27,7 @@
 
 ## 🧑🏻‍💻 Language
   
-<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derrickkim0109&theme=github_dark&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derrickkim0109&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

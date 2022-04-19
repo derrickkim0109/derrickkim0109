@@ -21,13 +21,13 @@
 ## History
 [![trophy](https://github-profile-trophy.vercel.app/?username=derrickkim0109&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
-
 ## 🧑🏻‍💻 Language
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derrickkim0109&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
 
 
 

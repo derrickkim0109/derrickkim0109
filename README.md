@@ -25,6 +25,9 @@
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
 
+## 🧑🏻‍💻 Language
+  
+<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derrickkim0109&theme=github_dark&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
 
 
 

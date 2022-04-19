@@ -20,7 +20,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derrickkim0109&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![derrickkim0109's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=derrickkim0109)
+![derrickkim0109's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=derrickkim)
 
 
 ## 🕰 History

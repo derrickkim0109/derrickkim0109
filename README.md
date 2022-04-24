@@ -7,7 +7,7 @@
 [![My Tech Blog Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=https://kinetic27.github.io/)](https://derrickkim0109.github.io/) 
 
 ## TaeHyun Kim 
-
+ 
 ### 🏴‍☠️ Nicknames
 - Github: `Derrick Kim`
 - [Teamo2](https://www.carmore.kr/): `Derrick(데릭)`

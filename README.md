@@ -1,5 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fderrickkim0109&count_bg=%23367AB6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-     
+      
 ## 💻 Resume & Portfolio
 ### &rarr; [here](https://www.notion.so/Resume-c38b8b0024144d4497de7058b905870b)
   

@@ -5,7 +5,7 @@
     
 ## 📖 Blog
 [![My Tech Blog Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=https://kinetic27.github.io/)](https://derrickkim0109.github.io/) 
-
+ 
 ## Notion Blog
 [Swift API Guideline](https://www.notion.so/Hi-I-m-Derrick-c38b8b0024144d4497de7058b905870b#89969da861ec4ee3b9019b307155b1c3) 
 

@@ -5,15 +5,8 @@
     
 ## 📖 Blog
 [![My Tech Blog Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=https://kinetic27.github.io/)](https://derrickkim0109.github.io/) 
- 
-## Notion Blog
-[Swift API Guideline](https://www.notion.so/Hi-I-m-Derrick-c38b8b0024144d4497de7058b905870b#89969da861ec4ee3b9019b307155b1c3) 
 
-[Auto Layout Guideline](https://www.notion.so/Hi-I-m-Derrick-c38b8b0024144d4497de7058b905870b#29bf854d342745d4875f6072d5cf9cb9) 
-
-[Apple Documents](https://www.notion.so/Hi-I-m-Derrick-c38b8b0024144d4497de7058b905870b#581390ba46034b2aa270290c414fe48b) 
-
-[Human Interface Guideline](https://www.notion.so/Hi-I-m-Derrick-c38b8b0024144d4497de7058b905870b#2a5d43632f4b4d70aa4635dbc04e0bf3) 
+[![Notion](https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white")](https://quick-face-098.notion.site/Blog-b18e4127a08a4817bad9d531219b21cd)
 
 ## TaeHyun Kim   
   

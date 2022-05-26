@@ -10,7 +10,7 @@
 [![Notion](https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white")](https://quick-face-098.notion.site/Blog-b18e4127a08a4817bad9d531219b21cd)
 
 ## TaeHyun Kim   
-  
+   
 ### 🏴‍☠️ Nicknames
 - Github: `Derrick Kim`
 - [Teamo2](https://www.carmore.kr/): `Derrick(데릭)`

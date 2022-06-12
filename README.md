@@ -25,7 +25,7 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=derrickkim)](https://solved.ac/derrickkim)
 
-
+ 
 ## 🕰 History
 [![trophy](https://github-profile-trophy.vercel.app/?username=derrickkim0109&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 

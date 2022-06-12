@@ -21,8 +21,6 @@
 
 <a href="https://opgc.me/#/users/derrickkim0109" target="_blank"><img src="https://api.opgc.me/githubs/users/derrickkim0109/tag/?theme=basic" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derrickkim0109&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=derrickkim)](https://solved.ac/derrickkim)
 
  

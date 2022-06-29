@@ -17,8 +17,6 @@
 - [Yagom_Academy](https://www.yagom-academy.kr/) : `Derrick(데릭)`
 
 ## 🂡 Cards
-![Derrick's github stats](https://github-readme-stats.vercel.app/api?username=derrickkim0109&show_icons=true&theme=cobalt)
-
 <a href="https://opgc.me/#/users/derrickkim0109" target="_blank"><img src="https://api.opgc.me/githubs/users/derrickkim0109/tag/?theme=basic" /></a>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=derrickkim)](https://solved.ac/derrickkim)

@@ -15,7 +15,7 @@
 - Github: `Derrick Kim`
 - [Teamo2](https://www.carmore.kr/): `Derrick(데릭)`
 - [Yagom_Academy](https://www.yagom-academy.kr/) : `Derrick(데릭)`
-- [Junction Asia] (https://asia.hackjunction.com/ko): `Derrick(데릭)`
+- [Junction Asia](https://asia.hackjunction.com/ko): `Derrick(데릭)`
 
 ## 🂡 Cards
 <a href="https://opgc.me/#/users/derrickkim0109" target="_blank"><img src="https://api.opgc.me/githubs/users/derrickkim0109/tag/?theme=basic" /></a>

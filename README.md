@@ -2,7 +2,7 @@
 [![Stars](https://img.shields.io/github/stars/derrickkim0109?color=orange&label=GitHub%20stars&logo=github&logo_color=orange)](https://github.com/derrickkim0109/derrickkim0109)
 
 ## 💻 Resume & Portfolio    
-### &rarr; [here](https://drive.google.com/file/d/1sxK-2L2Rsk3zdI52x4FQsuNEAHwdnBBk/view?usp=sharing)
+### &rarr; [here](https://drive.google.com/file/d/180YyFERsSvBHxRwYSqqBqimM7D8tSUko/view?usp=drive_link)
       
 ## 📖 Blog  
   

@@ -1,9 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fderrickkim0109&count_bg=%23367AB6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)   
 [![Stars](https://img.shields.io/github/stars/derrickkim0109?color=orange&label=GitHub%20stars&logo=github&logo_color=orange)](https://github.com/derrickkim0109/derrickkim0109)
 
-## 💻 Resume & Portfolio    
-### &rarr; [here](https://drive.google.com/file/d/1kCl40x6LSBFPXdVg9RX1lPgPRvQ-D5Mh/view?usp=drive_link)
-      
 ## 📖 Blog  
   
 <!-- [![My Tech Blog Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=https://kinetic27.github.io/)](https://derrickkim0109.github.io/) 

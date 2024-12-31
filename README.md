@@ -7,14 +7,6 @@
  -->
 [![Notion](https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white")](https://quick-face-098.notion.site/Blog-b18e4127a08a4817bad9d531219b21cd)
 
-## TaeHyun Kim    
-   
-### 🏴‍☠️ Nicknames
-- Github: `Derrick Kim`
-- [Teamo2](https://www.carmore.kr/): `Derrick(데릭)`
-- [Yagom_Academy](https://www.yagom-academy.kr/) : `Derrick(데릭)`
-- [Junction Asia](https://asia.hackjunction.com/ko): `Derrick(데릭)`
-
 ## 🂡 Cards
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=derrickkim)](https://solved.ac/derrickkim)
 
@@ -25,10 +17,6 @@
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
  
-
-
-
-
 <!--
 **Derrickkim/Derrickkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
